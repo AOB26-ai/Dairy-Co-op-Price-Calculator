@@ -1,0 +1,10 @@
+Hello Brian, 
+Here is a completed SMP Performance Coach Application and the summary of what was delivered:
+
+•	Combines your raw data with Machine Learning Predictions that gives no-fluff feedback.
+
+I have set up a live demo where you can input your actual data of your sleep hours,  glasses of water intake, and bench press load(kg) and get to see the output.
+
+This covers everything in the brief. Kindly review it for three working days. If everything works as agreed in our brief, send a message confirming and I will invoice for the remaining 50%.
+If something does not work as discussed in the brief, I will do revision without extra charges as that is covered with the initial amount. However, any additional feature will have its own separate invoice.
+Let me know if you have questions.
